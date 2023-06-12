@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img_Breathe-Easy Tank pink_product-image-photo</name>
+   <tag></tag>
+   <elementGuidId>26fbd340-04fd-4fd8-9517-1ecd2ec74d92</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//main[@id='maincontent']/div[3]/div/div[2]/div[2]/ol/li/div/a/span/span/img</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a.product.photo.product-item-photo > span.product-image-container > span.product-image-wrapper > img.product-image-photo</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>f75efab7-14a4-412f-9abe-6c5f0b64ce83</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>product-image-photo</value>
+      <webElementGuid>977e1cea-5110-48e8-90a1-68957ff2187d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>https://magento.softwaretestingboard.com/pub/media/catalog/product/cache/7c4c1ed835fbbf2269f24539582c6d44/w/t/wt09-white_main_1.jpg</value>
+      <webElementGuid>12a11739-d9ab-4723-8d38-e7c7161ffad9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>max-width</name>
+      <type>Main</type>
+      <value>240</value>
+      <webElementGuid>5f6c6786-6b63-4f0b-b667-304f8d2ccafc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>max-height</name>
+      <type>Main</type>
+      <value>300</value>
+      <webElementGuid>6ff0c669-b909-4add-940d-095ac93ea19c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>alt</name>
+      <type>Main</type>
+      <value>Breathe-Easy Tank</value>
+      <webElementGuid>5878d8de-4905-43d5-b78d-f1e34a2eab59</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;maincontent&quot;)/div[@class=&quot;columns&quot;]/div[@class=&quot;column main&quot;]/div[@class=&quot;search results&quot;]/div[@class=&quot;products wrapper grid products-grid&quot;]/ol[@class=&quot;products list items product-items&quot;]/li[@class=&quot;item product product-item&quot;]/div[@class=&quot;product-item-info&quot;]/a[@class=&quot;product photo product-item-photo&quot;]/span[@class=&quot;product-image-container&quot;]/span[@class=&quot;product-image-wrapper&quot;]/img[@class=&quot;product-image-photo&quot;]</value>
+      <webElementGuid>6f4c29ab-0bd6-4a7e-b9c0-3724938eb2b8</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='maincontent']/div[3]/div/div[2]/div[2]/ol/li/div/a/span/span/img</value>
+      <webElementGuid>955d42fb-d04c-4669-9eb5-563c3b38b03b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>//img[@alt='Breathe-Easy Tank']</value>
+      <webElementGuid>70618d80-4730-49f7-bd6f-904b90baf334</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/ol/li/div/a/span/span/img</value>
+      <webElementGuid>397ac820-a02a-4493-aff1-c468bf9e8ce3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = 'https://magento.softwaretestingboard.com/pub/media/catalog/product/cache/7c4c1ed835fbbf2269f24539582c6d44/w/t/wt09-white_main_1.jpg' and @alt = 'Breathe-Easy Tank']</value>
+      <webElementGuid>1a015a36-da71-480e-9e6f-2bfb0a5187f4</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

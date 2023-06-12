@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>update_user_name</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>4efa75a8-706a-4253-be6e-75902f44e05b</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>b00309b4-53a6-44de-ab8a-97882a3b39f4</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>26e8e691-451b-4d16-920f-889fe1c7f672</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>findTestData('first_last_name')</defaultValue>
+      <description></description>
+      <id>b00309b4-53a6-44de-ab8a-97882a3b39f4</id>
+      <masked>false</masked>
+      <name>Fname</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('first_last_name')</defaultValue>
+      <description></description>
+      <id>26e8e691-451b-4d16-920f-889fe1c7f672</id>
+      <masked>false</masked>
+      <name>Lname</name>
+   </variable>
+</TestCaseEntity>

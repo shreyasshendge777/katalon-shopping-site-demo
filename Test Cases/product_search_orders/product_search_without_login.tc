@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>product_search_without_login</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f4e285ad-949c-40fd-91ee-5ec561d247e3</testCaseGuid>
+</TestCaseEntity>

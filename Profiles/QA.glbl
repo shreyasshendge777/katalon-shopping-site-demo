@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GlobalVariableEntities>
+   <description></description>
+   <name>QA</name>
+   <tag></tag>
+   <defaultProfile>false</defaultProfile>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'https://magento.softwaretestingboard.com/'</initValue>
+      <name>applicationURL</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'shreyasshendge16@gmail.com'</initValue>
+      <name>applicationUsername</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'of74Vg7RlpvqmTAp11jSRw=='</initValue>
+      <name>applicationPass</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>5</initValue>
+      <name>applicationTimeout</name>
+   </GlobalVariableEntity>
+</GlobalVariableEntities>

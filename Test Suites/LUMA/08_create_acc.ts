@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>08_create_acc</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>0</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>false</rerunImmediately>
+   <testSuiteGuid>caaa8193-6172-431e-ae3c-f08cd09c1ce4</testSuiteGuid>
+   <testCaseLink>
+      <guid>32aea8df-39cf-4aa2-9138-0f5666109693</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <iterationNameVariable>
+         <defaultValue>findTestData('create_acc')</defaultValue>
+         <description></description>
+         <id>3237fcd3-f518-4a7a-b36b-c4f8adbe779a</id>
+         <masked>false</masked>
+         <name>email</name>
+      </iterationNameVariable>
+      <testCaseId>Test Cases/user_account_actions/create account</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>c3128df0-fec4-4e26-8662-8240a078c5c3</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/create_acc</testDataId>
+      </testDataLink>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId>c3128df0-fec4-4e26-8662-8240a078c5c3</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>FirstName</value>
+         <variableId>de71a873-cddd-411f-be0c-308116d757c2</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>c3128df0-fec4-4e26-8662-8240a078c5c3</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>LastName</value>
+         <variableId>3f63e06d-a228-480e-8328-ee2e9a91a1fa</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>c3128df0-fec4-4e26-8662-8240a078c5c3</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Email</value>
+         <variableId>3237fcd3-f518-4a7a-b36b-c4f8adbe779a</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>c3128df0-fec4-4e26-8662-8240a078c5c3</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Passwordone</value>
+         <variableId>1a0d7c06-d524-4012-bf2b-32186c1ecbfc</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>c3128df0-fec4-4e26-8662-8240a078c5c3</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>conformPass</value>
+         <variableId>298f6ffb-5eb2-475a-abed-29df6ce66e3d</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>
