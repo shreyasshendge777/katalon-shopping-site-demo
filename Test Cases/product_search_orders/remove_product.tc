@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>demo</name>
+   <name>remove_product</name>
    <tag></tag>
    <comment></comment>
-   <testCaseGuid>32f98d61-9ca8-4dc3-b0a9-bc17cd275da0</testCaseGuid>
+   <testCaseGuid>53d516ad-6f78-4353-a649-7b264fd359b5</testCaseGuid>
 </TestCaseEntity>

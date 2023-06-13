@@ -19,7 +19,7 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.click(findTestObject('Object Repository/Page_Push It Messenger Bag/button_Proceed to Checkout'))
 
-WebUI.verifyElementPresent(findTestObject('Page_Checkout/input_Email Address_username'), GlobalVariable.applicationTimeout)
+WebUI.verifyElementPresent(findTestObject('Page_Checkout/input_Email Address_username'), GlobalVariable.applicationWaitTimeout)
 
 WebUI.setText(findTestObject('Object Repository/Page_Checkout/input_Email Address_username'), 'Affdqqqq@gmail.com')
 

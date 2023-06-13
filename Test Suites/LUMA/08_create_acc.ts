@@ -22,7 +22,7 @@
          <masked>false</masked>
          <name>email</name>
       </iterationNameVariable>
-      <testCaseId>Test Cases/user_account_actions/create account</testCaseId>
+      <testCaseId>Test Cases/user_account_actions/create_account</testCaseId>
       <testDataLink>
          <combinationType>ONE</combinationType>
          <id>c3128df0-fec4-4e26-8662-8240a078c5c3</id>

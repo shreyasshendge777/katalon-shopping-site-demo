@@ -29,7 +29,7 @@
       <guid>179110ed-a429-4db9-9ee0-b2fd4d6e1744</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/product_search_orders/process to pay without login</testCaseId>
+      <testCaseId>Test Cases/product_search_orders/process_to_pay_without_login</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
 </TestSuiteEntity>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>process to pay without login</name>
+   <name>process_to_pay_without_login</name>
    <tag></tag>
    <comment></comment>
    <testCaseGuid>4c9625a8-1c8e-4d59-a1ab-cc10f7dee42c</testCaseGuid>
