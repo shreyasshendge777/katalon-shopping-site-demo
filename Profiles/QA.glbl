@@ -21,7 +21,7 @@
    </GlobalVariableEntity>
    <GlobalVariableEntity>
       <description></description>
-      <initValue>7</initValue>
+      <initValue>5</initValue>
       <name>applicationWaitTimeout</name>
    </GlobalVariableEntity>
 </GlobalVariableEntities>
