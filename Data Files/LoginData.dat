@@ -6,9 +6,9 @@
    <containsHeaders>true</containsHeaders>
    <csvSeperator></csvSeperator>
    <dataFileGUID>8d9e1c49-84cd-4d5d-9b72-ff4cf50edbf2</dataFileGUID>
-   <dataSourceUrl>D:\AutomationProjects\Katalon\NewOnlineShoppingCartUsingKatalon\Katalon_Demo.xlsx</dataSourceUrl>
+   <dataSourceUrl>Katalon_Demo.xlsx</dataSourceUrl>
    <driver>ExcelFile</driver>
-   <isInternalPath>false</isInternalPath>
+   <isInternalPath>true</isInternalPath>
    <query></query>
    <secureUserAccount>false</secureUserAccount>
    <sheetName>Sheet1</sheetName>
