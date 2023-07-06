@@ -6,6 +6,7 @@
    <UUID>a191b360-7c34-402e-8a5e-645221726bf2</UUID>
    <migratedVersion>5.9.0</migratedVersion>
    <pageLoadTimeout>0</pageLoadTimeout>
+   <projectFileLocation>D:\Katalon Project Folder\LUMAProject\LUMA.prj</projectFileLocation>
    <sourceContent>
       <sourceFolderList>
          <sourceFolderConfiguration>

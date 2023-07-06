@@ -1,0 +1,23 @@
+{
+  "keywordFileContentHash": "CE0E38FEB685656B6F5436560D985F94",
+  "keywordClasses": [
+    {
+      "name": "com.helper.address.AddressHelper",
+      "keywordMethods": [
+        {
+          "name": "add_new_address",
+          "parameters": []
+        },
+        {
+          "name": "edit_existing_address",
+          "parameters": []
+        },
+        {
+          "name": "with_existing_address",
+          "parameters": []
+        }
+      ]
+    }
+  ],
+  "javadocParsed": false
+}

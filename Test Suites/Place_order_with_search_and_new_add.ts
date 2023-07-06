@@ -17,18 +17,6 @@
       <isRun>true</isRun>
       <testCaseId>Test Cases/user_account_actions/login</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
-      <variableLink>
-         <testDataLinkId></testDataLinkId>
-         <type>DEFAULT</type>
-         <value></value>
-         <variableId>708a5310-2e53-44c3-9b8d-bffbaadb1da0</variableId>
-      </variableLink>
-      <variableLink>
-         <testDataLinkId></testDataLinkId>
-         <type>DEFAULT</type>
-         <value></value>
-         <variableId>abeff59c-ccf9-453a-83bc-fb8401fa09f8</variableId>
-      </variableLink>
    </testCaseLink>
    <testCaseLink>
       <guid>d8999914-10e2-436c-8198-69795fe57722</guid>
