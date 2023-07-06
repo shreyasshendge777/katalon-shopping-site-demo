@@ -26,18 +26,6 @@
          <testDataId>Data Files/LoginData</testDataId>
       </testDataLink>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
-      <variableLink>
-         <testDataLinkId>d575f585-7799-45a0-8ba3-f0a283f3bbef</testDataLinkId>
-         <type>DATA_COLUMN</type>
-         <value>Username</value>
-         <variableId>708a5310-2e53-44c3-9b8d-bffbaadb1da0</variableId>
-      </variableLink>
-      <variableLink>
-         <testDataLinkId>d575f585-7799-45a0-8ba3-f0a283f3bbef</testDataLinkId>
-         <type>DATA_COLUMN</type>
-         <value>Password</value>
-         <variableId>abeff59c-ccf9-453a-83bc-fb8401fa09f8</variableId>
-      </variableLink>
    </testCaseLink>
    <testCaseLink>
       <guid>bfc1fefd-eecd-4dd9-af1e-f335a686fc9d</guid>

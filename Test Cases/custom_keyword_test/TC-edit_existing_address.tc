@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>test1</name>
+   <name>TC-edit_existing_address</name>
    <tag></tag>
    <comment></comment>
-   <testCaseGuid>a6b0b9f7-5857-4626-afb0-c97b2a7dbe2c</testCaseGuid>
+   <testCaseGuid>5ed5096d-9185-4df4-8f17-31c0466a5ef7</testCaseGuid>
 </TestCaseEntity>

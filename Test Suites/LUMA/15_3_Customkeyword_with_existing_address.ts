@@ -1,39 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestSuiteEntity>
    <description></description>
-   <name>09_order with new address</name>
+   <name>15_3_Customkeyword_with_existing_address</name>
    <tag></tag>
    <isRerun>false</isRerun>
    <mailRecipient></mailRecipient>
-   <numberOfRerun>0</numberOfRerun>
+   <numberOfRerun>3</numberOfRerun>
    <pageLoadTimeout>30</pageLoadTimeout>
    <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
    <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
-   <rerunImmediately>false</rerunImmediately>
-   <testSuiteGuid>d2182ea8-293f-445f-b539-828601c4bcac</testSuiteGuid>
+   <rerunImmediately>true</rerunImmediately>
+   <testSuiteGuid>b3493fd9-ceec-43fe-a81d-ef6ef52a1b77</testSuiteGuid>
    <testCaseLink>
-      <guid>998c0955-b00f-4b17-8c44-a1cae06b7872</guid>
+      <guid>09c8e226-56e2-4949-aa6a-26b18ec5075c</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
       <testCaseId>Test Cases/user_account_actions/login</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
-      <guid>eaac7ef5-0371-40ad-9f9b-550b2bf43209</guid>
+      <guid>8794cff8-d496-41b6-b9d2-82beeb3e6c3f</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
       <testCaseId>Test Cases/product_search_orders/select_single_product</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
-      <guid>c9003af7-0912-47c7-9dc1-49aae57dcc54</guid>
+      <guid>66a42ee6-e38e-4782-8a86-bbed0566c957</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/address/add_new_address</testCaseId>
+      <testCaseId>Test Cases/custom_keyword_test/TC_with_existing_address</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
-      <guid>a90003fd-c2a3-47ce-b089-15dde3d05804</guid>
+      <guid>cb940f60-a7c3-4835-962c-642710b0c2e0</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
       <testCaseId>Test Cases/user_account_actions/logout</testCaseId>

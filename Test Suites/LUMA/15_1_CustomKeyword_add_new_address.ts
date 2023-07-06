@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestSuiteEntity>
    <description></description>
-   <name>09_order with new address</name>
+   <name>15_1_CustomKeyword_add_new_address</name>
    <tag></tag>
    <isRerun>false</isRerun>
    <mailRecipient></mailRecipient>
@@ -10,30 +10,39 @@
    <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
    <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
    <rerunImmediately>false</rerunImmediately>
-   <testSuiteGuid>d2182ea8-293f-445f-b539-828601c4bcac</testSuiteGuid>
+   <testSuiteGuid>248aebd0-c97a-4dd3-bf00-e8eec082b68b</testSuiteGuid>
    <testCaseLink>
-      <guid>998c0955-b00f-4b17-8c44-a1cae06b7872</guid>
+      <guid>cef81f22-8361-40b1-8ef1-bb0da7c9ca99</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
       <testCaseId>Test Cases/user_account_actions/login</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>753a8526-80da-4697-9169-79732bbd1456</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/LoginData</testDataId>
+      </testDataLink>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
-      <guid>eaac7ef5-0371-40ad-9f9b-550b2bf43209</guid>
+      <guid>293cf927-fb27-45af-9b6b-2b584b068c1e</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/product_search_orders/select_single_product</testCaseId>
+      <testCaseId>Test Cases/product_search_orders/search_single_product</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
-      <guid>c9003af7-0912-47c7-9dc1-49aae57dcc54</guid>
+      <guid>e21f94c6-ef46-445c-abbe-770850202fd6</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/address/add_new_address</testCaseId>
+      <testCaseId>Test Cases/custom_keyword_test/TC-add_new_address</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
-      <guid>a90003fd-c2a3-47ce-b089-15dde3d05804</guid>
+      <guid>2c0bb8e8-5cd8-48bd-b1c8-b8b26ec2614b</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
       <testCaseId>Test Cases/user_account_actions/logout</testCaseId>
